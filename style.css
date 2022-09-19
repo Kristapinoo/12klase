@@ -1,0 +1,77 @@
+/* header h1 {
+    color: purple;
+}
+
+h1 {
+    color: darkcyan;
+
+}
+
+footer h1 {
+    color: chocolate;
+
+}
+
+header h2:first-child {
+    color: red;
+}
+
+header h2:last-child {
+    color: yellow;
+}
+
+header li:nth-child(odd) {
+    color: gold;
+}
+header p:nth-child(even){
+    background-color: burlywood;
+}
+input{
+    border-radius: 3px;
+    border-color: orange;
+    border-style: solid;
+}
+main li:nth-child(1n + 4) {
+    font-weight: bold;
+
+}
+
+button:disabled{
+    cursor: not-allowed;
+}
+form button {
+    background-color: black;
+}
+
+div:empty {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+footer {
+    text-decoration: underline;
+}
+.aside-wrapper.list-item active {
+    opacity: 0.5;
+} */
+.description {
+
+}
+.description__heading {
+
+}
+
+.description__paragraph {
+
+}
+
+.description__heading.description__heading--secondary {
+    color: red;
+}
+.description.description--secondary {
+    background-color: yellow;
+}
+button {
+    width: 200px;
+    height: 75px;
+}
