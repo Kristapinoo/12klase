@@ -1,0 +1,34 @@
+/* .heading1, .heading2 {
+    color: red;
+}
+.heading1 {
+    font-size: 30px;
+}
+.heading2 {
+    font-size: 80px;
+} 
+1. */
+/* .computer {
+    margin-bottom: 20px;
+
+}
+
+.computer__monitor {
+    border: 5px solid black;
+    background-color: grey;
+    width: 160px;
+    height: 90px;
+    margin-bottom: 10px;
+}
+
+.computer__keyboard {
+    background-color: black;
+    width: 200px;
+    height: 50px;
+}
+.computer__keyboard.computer__keyboard--shiny {
+    background-color: aqua;
+}
+.computer.computer--laptop {
+    transform: scale(0.6);
+3. } */
