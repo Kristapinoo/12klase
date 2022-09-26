@@ -1,0 +1,96 @@
+/* * {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.parent-element {
+    background-color: bisque;
+    display: flex;
+    gap: 10px;
+}
+
+.parent-element__children {
+    background-color: chocolate;
+    padding: 10px;
+    font-size: 16px;
+    flex-grow: 1;
+}
+ */
+
+ /* * {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.parent-element {
+    background-color: bisque;
+    display: flex;
+    gap: 10px;
+}
+
+.parent-element__children {
+    background-color: chocolate;
+    padding: 10px;
+    font-size: 16px;
+   
+    /* flex-basis: 200px;
+    flex-grow: 1;
+    flex-shrink: 0; 
+     saīsinājumā ir: */
+    /* flex: 1 0 200px; */
+/* } */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    row-gap: 10px 20px;
+    padding: 20px;
+    border: 3px solid black;
+}
+
+.flex__children:nth-child(1) {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.flex__children:nth-child(2) {
+    background-color: rgba(255, 215, 0, 0.5);
+}
+
+.flex__children:nth-child(3) {
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
+.flex__children:nth-child(4) {
+    background-color: rgba(0, 128, 0, 0.5);
+}
+
+.flex__children--exercise1 {
+
+}
+
+.flex__children--exercise2 {
+
+}
+
+.flex__children--exercise3 {
+
+}
+
+.flex__children--exercise4 {
+
+}
