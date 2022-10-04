@@ -1,0 +1,70 @@
+/* .box:nth-child(1) {
+    height: 100vh;
+    width: 100vw;
+}
+.box:nth-child(2) {
+    height: 100vh;
+    width: 10vw;
+}
+.box:nth-child(3) {
+    height: 100vw;
+    width: 88vw;
+}
+.box:nth-child(4) {
+    height: 25vh;
+    width: 50vw;
+}
+.box:nth-child(5) {
+    height: 1vw;
+    width: 1vw;
+} */
+/* :root {
+    --body-background:white;
+    --text-color: black;
+
+    --body-background: black;
+    --text-color: white;
+}
+
+body {
+    background-color: var(--body-background);
+}
+
+h1 {
+    color: var(--text-color);
+}
+
+p {
+    color: var(--text-color);
+}
+
+button {
+    background-color: var(--body-background);
+    color: var(--text-color);
+    border: 1px solid var(--text-color);
+
+} */
+/* body {
+    margin: 0;
+    padding-top: 100px;}
+.box__inner {
+    background-color: gold;
+    position: relative;
+}
+
+.box__heading {
+    position: absolute;
+    right: 70px;
+    top: 50px;
+}
+
+.header {
+    background-color: red;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+} */
+
+/* z-index (x) - kurš no viņiem ies pa virsu citam/iem */
