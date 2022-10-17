@@ -339,6 +339,10 @@ body {
 
 }
 
+.pricing__pricing-plan--popular {
+    border-radius: 0 0 10px 10px;
+}
+
 .pricing__time-range {
     display: block;
     font-weight: 500;
@@ -376,4 +380,15 @@ body {
     line-height: 20px;
     color: #FFFFFF;
     cursor:pointer;
+}
+
+.pricing__popular {
+    background-color: #2f6ee2;
+    color: #ffffff;
+    position: absolute;
+    left: 0;
+    top: -60px;
+    width: 100%;
+    padding: 20px 10px;
+    border-radius: 10px 10px 0 0;
 }
