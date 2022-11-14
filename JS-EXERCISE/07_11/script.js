@@ -43,8 +43,12 @@ const ourFirstDatoruimObject = {
 
 ourFirstDatoruimObject.skullEmoji
 
-const allDatoriumObjects = {
-    firstProject :ourFirstDatoruimObject
-}
 
-console.log(allDatoriumObjects.firstProject.sunEmoji)
+const darbaDienas = {
+        pirmdiena: "Pirmdiena",
+        otrdiena: "Otrdiena",
+        tresdiena: "Trešdiena",
+        ceturtdiena: "Ceturtdiena",
+        piektdiena: "Piektdiena"
+    }
+
