@@ -77,8 +77,10 @@
 
 // console.log(scopeFunction)
 
-function sayHello () {
-    console.log('Hello there, Jāni')
+// function sayHello () {
+//     console.log('Hello there, Jāni')
 
-}
-console.log(sayHello())
+// }
+// console.log(sayHello())
+const x = 23 - "1"
+console.log(x)
