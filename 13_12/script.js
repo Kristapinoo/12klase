@@ -79,15 +79,23 @@
 //   someCat.sayCatNoise()
 
 
-class Timer {
-    constructor(containerSelector) {
-        console.log(containerSelector)
-        this.timerWrapper = document.querySelector('.js-timer')
+// class Timer {
+//     constructor(containerSelector) {
+//         console.log(containerSelector)
+//         this.timerWrapper = document.querySelector('.js-timer')
 
 
-    }
+//     }
 
+
+// }
+
+// const timer = new Timer('.js-timer')
+
+const doStuff = (x) => {
+
+    return x ? "1" : "0"
 
 }
 
-const timer = new Timer('.js-timer')
+doStuff([1, 2, 3].length == 4)
