@@ -1,9 +1,3 @@
-# To run the app
-Open terminal and in the same folder where `package.json` file is located run `npm install` and when everything is installed run `npm start`, you should see that dev server is active. To accsess project enter `http://localhost:3000/` into your browser.
-
-To run server with database you need to run `npm run start-db` in your terminal
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -75,5 +69,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # react-app-js
-# react-favorte-car
-# art-form
