@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+
+*{
+  box-sizing: border-box;
+}
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+  width: 50%;
+  padding-bottom: 100px;
+  padding-top: 80px;
+  gap: 20px;
+}
+
+.header__image {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.name {
+  color: white;
+
+}
+
+.second__name {
+  color: white;
+}
+
+.heading__button {
+  width: 30%;
+}
+.ievads {
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+
+.ievada__teksts {
+  width: 85%;
+  font-size: 25px;
+  margin-bottom: 100px;
+  text-align: center;
+  
+}
+
+.ievada__poga {
+  width: 35%;
+}
+
+
+body {
+  display: flex;
+  justify-content: center;
+}
+.quiz-header{
+  padding: 4rem;
+}
+
+img {
+  width: 400px;
+}
+h2{
+  padding: 1rem;
+  text-align: center;
+  margin: 0;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+ul li{
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+ul li label{
+  cursor: pointer;
+}
+button{
+  background-color: #03cae4;
+  color: #fff;
+  border: none;
+  display: block;
+  width: 100%;
+  cursor: pointer;
+  font-size: 1.1rem;
+  font-family: inherit;
+  padding: 1.3rem;
+  font-size: 20px;
+}
+button:hover{
+  background-color: #04adc4;
+}
+button:focus{
+  outline: none;
+  background-color: #44b927;
+}
+
+.quiz__container .sakuma__poga {
+  padding-top: 20px;
+}
+
+.viss {
+  display: flex;
+  flex-direction: column;
+}
+
+.atbildes__heading{
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  text-align: center;
+}
